@@ -16,4 +16,4 @@ PCB:
 3D board:
 <img width="1470" alt="Screenshot 2025-05-31 at 5 38 20 PM" src="https://github.com/user-attachments/assets/257b2b8d-7c6b-4f6b-8520-f7ee029d3282" />
 
-Slack username: Ana Albornoz
+Slack username: Ana
